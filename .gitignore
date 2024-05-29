@@ -1,0 +1,4 @@
+*.log
+/__debug*
+/acme-hardware-management-plugin
+/vendor
